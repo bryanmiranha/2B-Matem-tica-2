@@ -5,3 +5,6 @@ header {
 .cabecalho-titulo{
     text-align: center;
 }
+.lista-item{
+    text-align: right;
+}
